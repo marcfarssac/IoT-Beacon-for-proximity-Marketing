@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="beacons">
+        <item>Unknown</item>
+        <item>BC:6A:29:AE:D3:FC</item>
+        <item>B4:99:4C:64:24:A2</item>
+    </array>
+    <array name="brands">
+        <item>NEW OFFER!</item>
+        <item>PRADA</item>
+        <item>VERSACE</item>
+    </array>
+    <array name="products">
+        <item>New product!</item>
+        <item>Skirt</item>
+        <item>Jacket</item>
+    </array>
+    <array name="deals">
+        <item>Check label deal</item>
+        <item>Buy two pay one</item>
+        <item>Half  the price</item>
+    </array>
+    <array name="urls">
+        <item>http://www.marc-farssac.com/en/about-mfb-marc-farssac-busquets.html</item>
+        <item>http://www.marc-farssac.com/en/the-most-rewarding-way-to-enhance-every-single-person-s-live.html</item>
+        <item>http://www.marc-farssac.com/en/specific-products-for-specific-users.html</item>
+    </array>
+</resources>

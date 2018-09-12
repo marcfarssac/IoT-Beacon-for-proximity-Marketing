@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <item
+        android:id="@+id/opt_progress"
+        android:showAsAction="always"
+        android:title="@string/progress"
+        android:visibility="invisible"
+        />
+    <item
+        android:id="@+id/opt_mfb_home"
+        android:title="@string/mfb_home"/>
+    <item
+        android:id="@+id/opt_about"
+        android:icon="@drawable/ic_action_about"
+        android:title="@string/about"/>
+    <item
+        android:id="@+id/opt_exit"
+        android:title="@string/exit"/>
+
+
+</menu>

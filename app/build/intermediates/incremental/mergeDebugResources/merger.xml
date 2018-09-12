@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res"/><source path="C:\Users\marcf\git\CC2541 Beacon\app\build\generated\res\rs\debug"/><source path="C:\Users\marcf\git\CC2541 Beacon\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res"><file name="bluetooth" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-hdpi\bluetooth.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_about" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-hdpi\ic_action_about.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_bluetooth" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-hdpi\ic_action_bluetooth.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_cancel" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-hdpi\ic_action_cancel.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_refresh" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-hdpi\ic_action_refresh.png" qualifiers="hdpi-v4" type="drawable"/><file name="my_beacon_enabled_shop_small" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-hdpi\my_beacon_enabled_shop_small.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_action_about" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-mdpi\ic_action_about.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_bluetooth" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-mdpi\ic_action_bluetooth.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_cancel" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-mdpi\ic_action_cancel.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_action_refresh" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-mdpi\ic_action_refresh.png" qualifiers="mdpi-v4" type="drawable"/><file name="my_beacon_enabled_shop" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-mdpi\my_beacon_enabled_shop.png" qualifiers="mdpi-v4" type="drawable"/><file name="my_beacon_enabled_shop_small" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-mdpi\my_beacon_enabled_shop_small.png" qualifiers="mdpi-v4" type="drawable"/><file name="hot_deal" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xhdpi\hot_deal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_about" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xhdpi\ic_action_about.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_bluetooth" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xhdpi\ic_action_bluetooth.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_cancel" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xhdpi\ic_action_cancel.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_refresh" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xhdpi\ic_action_refresh.png" qualifiers="xhdpi-v4" type="drawable"/><file name="irtemperature" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xhdpi\irtemperature.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lightsensor" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xhdpi\lightsensor.png" qualifiers="xhdpi-v4" type="drawable"/><file name="my_beacon_enabled_shop_small" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xhdpi\my_beacon_enabled_shop_small.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_about" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xxhdpi\ic_action_about.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_bluetooth" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xxhdpi\ic_action_bluetooth.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_cancel" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xxhdpi\ic_action_cancel.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_refresh" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\drawable-xxhdpi\ic_action_refresh.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="dialog_about" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\layout\dialog_about.xml" qualifiers="" type="layout"/><file name="element_device" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\layout\element_device.xml" qualifiers="" type="layout"/><file name="fragment_help" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\layout\fragment_help.xml" qualifiers="" type="layout"/><file name="fragment_pager" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\layout\fragment_pager.xml" qualifiers="" type="layout"/><file name="fragment_scan" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\layout\fragment_scan.xml" qualifiers="" type="layout"/><file name="frame_progress" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\layout\frame_progress.xml" qualifiers="" type="layout"/><file name="main_activity_actions" path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\menu\main_activity_actions.xml" qualifiers="" type="menu"/><file path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\values\arrays.xml" qualifiers=""><array name="beacons">
+        <item>Unknown</item>
+        <item>BC:6A:29:AE:D3:FC</item>
+        <item>B4:99:4C:64:24:A2</item>
+    </array><array name="brands">
+        <item>NEW OFFER!</item>
+        <item>PRADA</item>
+        <item>VERSACE</item>
+    </array><array name="products">
+        <item>New product!</item>
+        <item>Skirt</item>
+        <item>Jacket</item>
+    </array><array name="deals">
+        <item>Check label deal</item>
+        <item>Buy two pay one</item>
+        <item>Half  the price</item>
+    </array><array name="urls">
+        <item>http://www.marc-farssac.com/en/about-mfb-marc-farssac-busquets.html</item>
+        <item>http://www.marc-farssac.com/en/the-most-rewarding-way-to-enhance-every-single-person-s-live.html</item>
+        <item>http://www.marc-farssac.com/en/specific-products-for-specific-users.html</item>
+    </array></file><file path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">In-store Beacons App</string><string name="button_scan">Enable In-store offers</string><string name="button_scan_stop">Disable In-store offers</string><string name="searching_offers">Walk around to find offers</string><string name="in_store_offer">offer</string><string name="in_store_offers">offers</string><string name="in_store_offers_list">In-store offers list</string><string name="load_in_store_deal">"Go to Website"</string><string name="title_device_list">Device List</string><string name="device">Device</string><string name="header">Available BLE Devices</string><string name="disconnected">Device is not connected</string><string name="control">Done</string><string name="bt_not_supported">Bluetooth is not supported</string><string name="ble_not_supported">BLE is not supported</string><string name="bt_on">Bluetooth was turned  on</string><string name="bt_not_on">Bluetooth was not turned on</string><string name="app_closing">Exiting BLE SensorTag app</string><string-array name="device_filter"><item>SensorTag</item><item>SensorTag2</item></string-array><string name="no_beacons_in_range">There are no offers at this store location. Please walk around to find great In-store deals !</string><string name="scan_advice">The In-store offers are disabled and you will not receive any information about them as you walk by. Please push \"Enable In-store offers\" to start receiving them</string><string name="bt_adapter_disable">Disable Bluetooth adapter</string><string name="bt_adapter_reset">Reset Bluetooth adapter</string><string name="prefs">Preferences</string><string name="progress"/><string name="agree">I agree</string><string name="fwupdate">Firmware update</string><string name="bt">Bluetooth Adapter</string><string name="sthome">SensorTag Home</string><string name="mfb_home">MFB Home page</string><string name="license">License</string><string name="about">About</string><string name="exit">Exit</string><string name="dev_addr">Device address</string><string name="image">Image</string><string name="keys">Keys</string><string name="acc">Accelerometer</string><string name="mag">Magnetometer</string><string name="lux">Luxometer</string><string name="gyro">Gyroscope</string><string name="hum">Humidity</string><string name="bar">Barometer</string><string name="tAmb">Ambience Temperature</string><string name="tObj">Object Temperature</string><string name="xyz3">x:\ny:\nz:\n</string><string name="empty3">*\n*\n*\n</string><string name="unitDegSec3">deg/s\ndeg/s\ndeg/s\n</string><string name="unitG3">g\ng\ng\n</string><string name="unitT3">uT\nuT\nuT\n</string><string name="empty1">*\n</string><string name="unitDeg">deg/C\n</string><string name="unitRH">%rH\n</string><string name="unitPA_Meter">nPA\nmeter</string><string name="unitLux">Lux\n</string><string name="title_oad">Firmware Update (OAD)</string><string name="start_prog">Start Programming</string><string name="cancel">Cancel</string><string name="prog_ogoing">NB! Not permitted to close this view during OAD transfer</string><string name="load_image_a">Image A</string><string name="load_image_b">Image B</string><string name="load_image_c">Custom</string><string name="no_image">Not an OAD image</string><string name="no_image_sel">No image selected</string><string name="new_image">New image:</string><string name="cur_image">Current image:</string><string name="idle">idle</string><string name="btn_txt_confirm">Confirm</string></file><file path="C:\Users\marcf\git\CC2541 Beacon\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="aboutStyle">
+        <item name="android:background">@android:color/black</item>
+        <item name="android:textColor">#ff0</item>
+        <item name="android:textSize">14dp</item>
+    </style><style name="logStyle">
+        <item name="android:background">#dde</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">18dp</item>
+    </style><style name="tabwidgetStyle">
+        <item name="android:background">#336</item>
+    </style><style name="devlistStyle">
+        <item name="android:dividerHeight">5dp</item>
+    </style><style name="listItemStyle">
+        <item name="android:background">#abc</item>
+        <item name="android:padding">18dp</item>
+    </style><style name="nameStyle">
+        <item name="android:textColor">#000</item>
+        <item name="android:textSize">18dp</item>
+    </style><style name="nameStyle.inactive">
+        <item name="android:textColor">#ccc</item>
+    </style><style name="nameStyleSelected">
+        <item name="android:textColor">#c33</item>
+    </style><style name="dirStyle">
+        <item name="android:textColor">#003</item>
+				<item name="android:textSize">20dp</item>
+				<item name="android:layout_margin">10dp</item>
+				<item name="android:gravity">center_horizontal</item>
+    </style><style name="dataStyle">
+        <item name="android:background">#fff</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#030</item>
+        <item name="android:textColorHint">#fff</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:padding">8dp</item>
+    </style><style name="dataStyle1">
+        <item name="android:textColor">#060</item>
+        <item name="android:textSize">16dp</item>
+    </style><style name="dataStyle2">
+        <item name="android:textColor">#f33</item>
+        <item name="android:textSize">16dp</item>
+    </style><style name="infoStyle">
+        <item name="android:textColor">#3f3</item>
+        <item name="android:textSize">14dp</item>
+    </style><style name="statusStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:gravity">right</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:background">#ccc</item>
+    </style><style name="statusStyleSmall">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textSize">14dp</item>
+    </style><style name="statusStyle.Success" parent="statusStyle">
+        <item name="android:textColor">#336633</item>
+    </style><style name="statusStyle.Busy" parent="statusStyle">
+        <item name="android:textColor">#EEEEEE</item>
+    </style><style name="statusStyle.Failure" parent="statusStyle">
+        <item name="android:textColor">#FF0000</item>
+    </style><style name="statusStyle.Disabled" parent="statusStyle">
+        <item name="android:textColor">#999999</item>
+        <item name="android:gravity">right</item>
+    </style><style name="tbStartStyle">
+        <item name="android:textSize">16dp</item>
+    </style><style name="ServiceHeaderRow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:typeface">serif</item>
+    </style><style name="ServiceHeaderItem">
+        <item name="android:layout_span">4</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style><style name="ServiceRow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#def</item>
+        <item name="android:gravity">center</item>
+    </style><style name="ServiceItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:textSize">18dp</item>
+    </style><style name="ServiceItemValue">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginRight">30dp</item>
+        <item name="android:textSize">18dp</item>
+    </style></file></source><source path="C:\Users\marcf\git\CC2541 Beacon\app\build\generated\res\rs\debug"/><source path="C:\Users\marcf\git\CC2541 Beacon\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\marcf\git\CC2541 Beacon\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\marcf\git\CC2541 Beacon\app\src\debug\res"/></dataSet><mergedItems/></merger>
