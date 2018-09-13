@@ -1,4 +1,4 @@
-#Wed Sep 12 11:21:57 CEST 2018
-base.0=C\:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+#Thu Sep 13 13:26:42 CEST 2018
+base.0=C\:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,19 +1,19 @@
 #Internal package file, do not edit.
-#Wed Sep 12 11:21:54 CEST 2018
-1.base=C\:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\assets\\debug
+#Thu Sep 13 13:26:38 CEST 2018
+1.base=C\:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\assets\\debug
 2.path=help_scan.html
 0.baseType=DIRECTORY
 3.baseType=DIRECTORY
-2.base=C\:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\assets\\debug
+2.base=C\:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\assets\\debug
 3.set=ASSET
 2.set=ASSET
 1.baseType=DIRECTORY
-3.path=help.css
+3.path=about.css
 count=4
 1.set=ASSET
-0.path=about.html
-3.base=C\:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\assets\\debug
+0.path=help.css
+3.base=C\:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\assets\\debug
 0.set=ASSET
-0.base=C\:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\assets\\debug
+0.base=C\:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\assets\\debug
 2.baseType=DIRECTORY
-1.path=about.css
+1.path=about.html

@@ -1,126 +1,126 @@
 [
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_bluetooth.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_bluetooth.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pager.xml.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\layout\\fragment_pager.xml"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lightsensor.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xhdpi\\lightsensor.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_my_beacon_enabled_shop_small.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-mdpi\\my_beacon_enabled_shop_small.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_help.xml.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\layout\\fragment_help.xml"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_bluetooth.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_bluetooth.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_cancel.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_cancel.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_cancel.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_cancel.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_cancel.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_cancel.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hot_deal.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xhdpi\\hot_deal.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_about.xml.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\layout\\dialog_about.xml"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_cancel.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_cancel.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pager.xml.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\layout\\fragment_pager.xml"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_element_device.xml.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\layout\\element_device.xml"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hot_deal.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xhdpi\\hot_deal.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_help.xml.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\layout\\fragment_help.xml"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_irtemperature.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xhdpi\\irtemperature.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_my_beacon_enabled_shop_small.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-hdpi\\my_beacon_enabled_shop_small.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_cancel.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-hdpi\\ic_action_cancel.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_cancel.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-hdpi\\ic_action_cancel.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_my_beacon_enabled_shop_small.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-hdpi\\my_beacon_enabled_shop_small.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_frame_progress.xml.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\layout\\frame_progress.xml"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_bluetooth.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-hdpi\\ic_action_bluetooth.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_bluetooth.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_bluetooth.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_refresh.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_refresh.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_my_beacon_enabled_shop_small.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xhdpi\\my_beacon_enabled_shop_small.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_element_device.xml.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\layout\\element_device.xml"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-mdpi\\ic_action_about.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_refresh.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_bluetooth.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-mdpi\\ic_action_bluetooth.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_refresh.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_my_beacon_enabled_shop.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-mdpi\\my_beacon_enabled_shop.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_frame_progress.xml.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\layout\\frame_progress.xml"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_refresh.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_bluetooth.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-mdpi\\ic_action_bluetooth.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_my_beacon_enabled_shop.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-mdpi\\my_beacon_enabled_shop.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_about.xml.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\layout\\dialog_about.xml"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bluetooth.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-hdpi\\bluetooth.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lightsensor.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xhdpi\\lightsensor.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_my_beacon_enabled_shop_small.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-mdpi\\my_beacon_enabled_shop_small.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_cancel.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-mdpi\\ic_action_cancel.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_about.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_about.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_bluetooth.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-hdpi\\ic_action_bluetooth.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_refresh.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_about.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_about.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_irtemperature.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xhdpi\\irtemperature.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_bluetooth.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_bluetooth.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_about.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-hdpi\\ic_action_about.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_cancel.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-mdpi\\ic_action_cancel.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_about.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_activity_actions.xml.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\menu\\main_activity_actions.xml"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_scan.xml.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\layout\\fragment_scan.xml"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_scan.xml.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\layout\\fragment_scan.xml"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bluetooth.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-hdpi\\bluetooth.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_about.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-mdpi\\ic_action_about.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_about.png.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_about.png"
     },
     {
-        "merged": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_my_beacon_enabled_shop_small.png.flat",
-        "source": "C:\\Users\\marcf\\git\\CC2541 Beacon\\app\\src\\main\\res\\drawable-xhdpi\\my_beacon_enabled_shop_small.png"
+        "merged": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_activity_actions.xml.flat",
+        "source": "C:\\Users\\marcf\\git\\InStoreBeacon\\app\\src\\main\\res\\menu\\main_activity_actions.xml"
     }
 ]
