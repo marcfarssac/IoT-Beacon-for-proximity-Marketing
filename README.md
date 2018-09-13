@@ -1,23 +1,23 @@
-# Project Title
 
-In-store Beacons App
+# In-store Beacons App
 
-## Getting Started
+## Project description
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. 
+This is a base Store App with Bluetooth Low Energy functionality scanning for Beacons, BLE devices on reach. Once they are found, they are shown on the screen. Once the user walks away from the Beacon, the screen refreshes and the Beacon goes away from the screen.
+
+
+
+| ![One Beacon detected|250x250,60%](https://user-images.githubusercontent.com/18221570/45486375-24aca000-b75b-11e8-9bc1-77c200f4136a.png) | ![Two Beacons detected|250x250,60%](https://user-images.githubusercontent.com/18221570/45486454-6dfcef80-b75b-11e8-9f60-dd0d470dc732.png)|
+
 
 ### Prerequisites
 
-You will need a Bluetooth Low Energy (BLE) Beacon to be detected by the App. Also your device must be enabled with BLE to be able to detect the Beacons.
-
-## Usage
-
-After launching the Android App this will start searching for Beacons nearby. If found they will be shown on the screen with a short description of the bran, product and deal. 
-When the user moves away from the Beacon this will disappear from the list. As soon as the user goes back to the Beacon, this will show up again on the list.     
+One ore more Bluetooth Low Energy (BLE) Beacons are needed as well as a BLE enabled mobile phone / device to be able to detect the Beacons.
 
 ## Built With
 
 * [Android](https://www.android.com/) - The world's most popular mobile OS
+* [Texas Instruments BLE Stack](http://www.ti.com/tool/BLE-STACK/) - Bluetooth low energy software stack
 
 ## License
 
